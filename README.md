@@ -84,7 +84,4 @@ Database-driven web application for ticket booking.
 ---
 
 ## 📫 Connect With Me
-
-LinkedIn: Your LinkedIn URL
-
-Email: your email
+Email: workwithsnehh@gmail.com
