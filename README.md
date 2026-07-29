@@ -1,89 +1,21 @@
-# Hi there, I'm Sneha Upadhyay 👋
+# 💫 About Me:
+🎓B.Tech in Artificial Intelligence & Machine Learning <br> 💻 Currently learning Data Structures & Algorithms (C++) <br>🤖 Interested in AI, Machine Learning, and Backend Development  <br>🌱 Exploring FastAPI, SQL, and System Design <br>🎯 Looking for Internship Opportunities
 
-## 👩‍💻 About Me
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workwithsnehh@gmail.com) 
 
-💡 Passionate about AI, Backend Development, and Problem Solving.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Snehh20&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Snehh20&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Snehh20&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🌱 Currently learning
-
-- Data Structures & Algorithms
-- System Design
-- FastAPI
-- SQL
-- Machine Learning
-
-🎯 Goal
-
-To build impactful AI products and contribute to innovative engineering teams.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Snehh20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Snehh20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Tech Stack
-
-### Languages
-
-- Python
-- C++
-- SQL
-- Java
-
-### Frameworks & Libraries
-
-- FastAPI
-- Flask
-- OpenCV
-- YOLOv8
-- SQLAlchemy
-
-### Databases
-
-- MySQL
-- SQLite
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-
----
-
-## 📌 Featured Projects
-
-### 🚀 Placify
-
-AI-powered placement preparation platform for engineering students.
-
-**Tech Stack**
-
-Python • FastAPI • SQLAlchemy • SQLite
-
----
-
-### 🛣️ Real-Time Pothole Detection
-
-YOLOv8-based pothole detection system with GPS integration.
-
----
-
-### 🎬 Movie Ticket Booking System
-
-Database-driven web application for ticket booking.
-
----
-
-## 📈 Current Focus
-
-- Solving DSA problems daily
-- Building AI projects
-- Preparing for Software & AI internships
-
----
-
-## 📫 Connect With Me
-
-
-Email: workwithsnehh@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
